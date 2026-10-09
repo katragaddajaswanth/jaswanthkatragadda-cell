@@ -91,7 +91,7 @@ I practise coding problems to improve my understanding of algorithms, data struc
 - Focus areas: arrays, strings, mathematics, searching, sorting, and core data structures.
 - Learning to explain the reasoning behind a solution—not just memorise code.
 
-[Visit my GitHub profile](https://github.com/jaswanthkatragadda-cell)
+[Visit my GitHub profile](https://github.com/katragaddajaswanth)
 
 ## 📈 GitHub Stats
 
@@ -106,8 +106,8 @@ I practise coding problems to improve my understanding of algorithms, data struc
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@jaswanthkatragadda-cell](https://github.com/jaswanthkatragadda-cell)
-- **LeetCode:** [Add your LeetCode profile link here](https://leetcode.com/)
+- **GitHub:** [@jaswanthkatragadda-cell](https://github.com/katragaddajaswanth)
+- **LeetCode:** [https://leetcode.com/u/Jaswanth79/](https://leetcode.com/u/Jaswanth79/)
 
 <!-- Optional: Add your LinkedIn, email, portfolio, and a profile banner when ready. -->
 
