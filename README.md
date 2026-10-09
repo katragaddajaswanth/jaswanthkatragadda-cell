@@ -98,7 +98,7 @@ I practise coding problems to improve my understanding of algorithms, data struc
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=katragaddajaswanth&show_icons=true&hide_border=true&rank_icon=github" alt="Jaswanth's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthkatragadda-cell&layout=compact&hide_border=true" alt="Most used languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katragaddajaswanth&layout=compact&hide_border=true" alt="Most used languages">
 
 <img src="https://streak-stats.demolab.com?user=katragaddajaswanth&hide_border=true" alt="GitHub contribution streak">
 
